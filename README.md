@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohankrishna12
-- 👀 I’m interested in Machine Learning Research
+- 👀 I’m interested in Machine Learning , Computer Vision Research
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on Machine learning and Computer Vision Related Research
 - 📫 Tou can reach me at pallapu.mohankrishna9@gmail.com
