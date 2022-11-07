@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning , Computer Vision Research
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on Machine learning and Computer Vision Related Research
-- 📫 Tou can reach me at pallapu.mohankrishna9@gmail.com
+- 📫 You can reach me at pallapu.mohankrishna9@gmail.com
 
 <!---
 mohankrishna12/mohankrishna12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
