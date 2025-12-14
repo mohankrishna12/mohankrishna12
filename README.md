@@ -1,12 +1,11 @@
-font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+mohan krishna;AI+%26+Machine+Learning+Engineer;Deep+Learning+Enthusiast;Generative+AI+Developer" alt="Typing SVG" />
-</h1>
+
 
 <h3 align="center">🚀 Transforming Ideas into Intelligent Solutions with AI 🧠</h3>
 
 <img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
+  <img src="https://komarev.com/ghpvc/?username=mohankrishna12&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
 </p>
 
 ---
