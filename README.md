@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Your+Name;AI+%26+Machine+Learning+Engineer;Deep+Learning+Enthusiast;Generative+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+mohan krishna;AI+%26+Machine+Learning+Engineer;Deep+Learning+Enthusiast;Generative+AI+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Transforming Ideas into Intelligent Solutions with AI 🧠</h3>
@@ -14,16 +14,15 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Student/Professional** at **[Your University/Company]**
-- 🌍 Based in **[Your City, Country]**
+- 🎓 **Professional** at **[Ramana Soft]**
+- 🌍 Based in **[Hyderabad, India]**
 - 🧠 Specializing in **Machine Learning, Deep Learning & Generative AI**
 - 🔭 Currently working on **LLM Fine-tuning & Computer Vision Projects**
 - 🌱 Learning **Transformer Architecture, Diffusion Models & RAG Systems**
 - 💡 Passionate about **Neural Networks, NLP & GANs**
 - 🎯 Goal: **Build AI that makes a real-world impact**
 - 💬 Ask me about **PyTorch, TensorFlow, Hugging Face, OpenAI APIs**
-- 📫 Reach me: **your.email@gmail.com**
-- ⚡ Fun fact: **I train models while the world sleeps! 🌙**
+- 📫 Reach me: **mohankrishnammkr@gmail.com**
 
 ---
 
@@ -100,12 +99,12 @@ expertise = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohankrishna12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?usermohankrishna12E&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohankrishna12&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
@@ -113,7 +112,7 @@ expertise = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohankrishna12&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -191,7 +190,7 @@ Time series forecasting using LSTM networks.
 
 ## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohankrishna12&theme=react-dark&hide_border=true&area=true)](https://github.com/mohankrishna12)
 
 ---
 
@@ -199,9 +198,8 @@ Time series forecasting using LSTM networks.
 
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="mailto:mohankrishnammkr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://kaggle.com/mohankrishnammkr"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
