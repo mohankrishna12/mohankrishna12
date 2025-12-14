@@ -217,5 +217,5 @@ Time series forecasting using LSTM networks.
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/YOUR_USERNAME">Your Name</a> | 💻 Built with ❤️ and Python
+  ⭐️ From <a href="https://github.com/mohankrishna12">Your Name</a> | 💻 Built with ❤️ and Python
 </p>
